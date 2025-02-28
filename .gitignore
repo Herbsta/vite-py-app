@@ -23,6 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
+routetree.gen.ts
+
 venv
 __pycache__/
 *.pyc
